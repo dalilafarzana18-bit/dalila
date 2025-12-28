@@ -1,0 +1,8 @@
+{
+  "name": "Study Planner ",
+  "description": "A comprehensive study management application with progress tracking, task planning, and a sleek dark/light mode interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
